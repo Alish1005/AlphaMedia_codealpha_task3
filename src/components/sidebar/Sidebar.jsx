@@ -22,7 +22,7 @@ function Sidebar() {
                     </li>
                     <li className='sidebarListItem'>
                         <span className='sidebarListItemText'>
-                            <ChatIcon className='sidebarIcon'/>Chats2
+                            <ChatIcon className='sidebarIcon'/>Chats
                         </span>
                     </li>
                     <li className='sidebarListItem'>
